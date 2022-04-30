@@ -13,3 +13,10 @@ header {
     background-position: center;
     position: relative;
 }
+
+.container {
+    position: relative;
+    height: 100%;
+    max-width: 1140px;
+    margin: auto;
+}
