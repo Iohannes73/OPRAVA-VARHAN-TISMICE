@@ -20,3 +20,20 @@ header {
     max-width: 1140px;
     margin: auto;
 }
+
+
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+li {
+
+}
+
+a {
+    margin: 0 50px;
+    text-decoration: none;
+}
